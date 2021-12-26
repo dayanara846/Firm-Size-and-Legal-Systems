@@ -1,2 +1,2 @@
 # Firm-Size-and-Legal-Systems
-Explore the relationship between firm size and legal systems in the United States.
+In this project I explore the relationship between firm size and legal systems in the United States.
