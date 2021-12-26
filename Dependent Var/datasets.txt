@@ -1,0 +1,31 @@
+Endogenous factors - information about firms
+
+US Census Bureau
+
+1. SUSB Annual Data Tables by Establishment Industry in each State (from 1988 - 2018):
+https://www.census.gov/data/tables/time-series/econ/susb/susb-historical.html
+
+Exogenous factors (information about states' labor/economic conditions)
+
+Bureau of Economic Analysis - U.S. Department of Commerce
+1. https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4
+
+SAGDP1 Gross Domestic Product (GDP) summary, annual by state.csv <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4
+SAINC51 Disposable Personal Income Summary Disposable Personal Income, Population, and Per Capita Disposable Personal Income <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4
+Personal Income and Employment by Major Component(SAINC4)<---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Compensation of Employees by Industry (SAINC6)_(NAICS)<---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Compensation of Employees by Industry (SAINC6)_(SIC) <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Wages and Salaries by Industry (SAINC7) <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Full-Time and Part-Time Wage and Salary Employment by Industry (SAEMP27)_(NAICS) <--- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Full-Time and Part-Time Wage and Salary Employment by Industry (SAEMP27)_(SIC) <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+Economic Profile (SAIC30) <---- https://apps.bea.gov/iTable/iTable.cfm?reqid=70&step=1&acrdn=4#
+
+Exogenous factors (information about states' social conditions)
+Census
+1. https://www.census.gov/topics.html
+2. Sentiment Analysis by webscraping the 10 most relevant news articles
+for each state through The New York Times by year.
+
+https://www.nytimes.com/search?dropmab=true&endDate=20191231&query=Florida&sort=best&startDate=20190101&types=article
+
+
